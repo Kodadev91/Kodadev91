@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm a JavaScript, Typescript, Python, C#, LLM Expert</h1>
+<h1 align="center">Hi 👋, I'm a JavaScript, Typescript, Python, LLM Expert</h1>
 <h3 align="center">Senior Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kodadev91&label=Profile%20views&color=0e75b6&style=flat" alt="kodadev91" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kodadev91" alt="kodadev91" /></a> </p>
-
-- 🌱 I’m currently learning **Microservice, Java/Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
